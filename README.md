@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently exploring cloud technologies and real-time analytics to create impactful solutions. Focused on learning from challenges, continuously improving, and building meaningful tech that drives innovation.
+Focused on learning from challenges, continuously improving, and building meaningful tech that drives innovation.
 
 ⚡ **Fun Fact:**  
 I believe _"Coffee + Code = Infinite Possibilities"_ ☕💻
